@@ -18,6 +18,10 @@
 
 * Nuxt, Filter, Mixin, Components, Fetch, TItle Meta, Favicon, Vuex, Middleware
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/38901815/102714100-7eb14e00-42f2-11eb-834a-8b20e4c15d8a.png)
+
 ## Build Setup
 
 ```bash
